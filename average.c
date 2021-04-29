@@ -11,7 +11,7 @@ int main(void) {
   float num[100];
   float sum, ave;
  
-  printf("数値の数を入力(1〜200) = ");
+  printf("数値の数を入力(1〜300) = ");
   scanf("%d",&n);
  
   /* 数値の入力と総和の計算 */
