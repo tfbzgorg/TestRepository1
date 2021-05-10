@@ -26,5 +26,5 @@ int main(void) {
   ave = sum/n;
   printf("数値の平均値 = %.2f\n", ave);
  
-  return 0; /* コメント追記 */
+  return 0; /* コメント追記 */ /* コメント追記その2 */
 }
