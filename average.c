@@ -11,6 +11,7 @@ int main(void) {
   float num[100];
   float sum, ave;
  
+  /* コメント追記その4.1 */
   printf("数値の数を入力(1〜300) = ");
   scanf("%d",&n);
  
@@ -26,6 +27,7 @@ int main(void) {
   ave = sum/n;
   printf("数値の平均値 = %.2f\n", ave);
  
+  /* コメント追記その4.2 */
   return 0; /* コメント追記 */ /* コメント追記その2 */
   /* コメント追記その3 */
 }
