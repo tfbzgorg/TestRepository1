@@ -11,7 +11,7 @@ int main(void) {
   float num[100];
   float sum, ave;
  
-  /* コメント追記その4.1 */
+  /* コメント追記その4_1 */
   printf("数値の数を入力(1〜300) = ");
   scanf("%d",&n);
  
